@@ -1,6 +1,6 @@
 <h1 align="center">⚡ Tooda</h1>
 <p align="center">
-  <b>Full-Stack Developer • Cybersecurity Engineer • IoT Security Specialist</b><br>
+  <b>Full-Stack Developer • Cybersecurity Engineer</b><br>
 </p>
 
 ---
